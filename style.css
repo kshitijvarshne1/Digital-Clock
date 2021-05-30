@@ -25,6 +25,7 @@ body{
 #clock #time{
     display: flex;
 }
+
 #clock #time div{
     position: relative;
     margin: 0 5px;
